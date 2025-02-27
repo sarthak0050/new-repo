@@ -1,2 +1,3 @@
 this is a new file for git
 now it has become old
+this is only part of the branch 1
